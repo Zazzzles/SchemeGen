@@ -2,6 +2,8 @@
 
 > A site for rapidly iterating UI colors schemes 
 
+* [Try it out](schemegen.surge.sh)
+
 ![Example](/examples/demo.gif)
 
 ## Installation
