@@ -1,5 +1,5 @@
 {
-  "name": "uibuilder",
+  "name": "schemegen",
   "version": "1.0.0",
   "description": "A small tool for building UI's",
   "main": "index.js",
