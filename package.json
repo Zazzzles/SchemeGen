@@ -1,0 +1,22 @@
+{
+  "name": "uibuilder",
+  "version": "1.0.0",
+  "description": "A small tool for building UI's",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ras Brits",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.8.6",
+    "react-color": "^2.17.3",
+    "react-dom": "^16.8.6"
+  }
+}

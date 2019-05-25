@@ -1,0 +1,106 @@
+.shell-container{
+    height: 447px;
+    width: 655px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    box-shadow: 1px 1px 7px 1px #0000004d;
+    transition: all 0.3s;
+}
+
+.sidebar{
+    width: 160px;
+    padding-top: 15px;
+    transition: all 0.3s;
+}
+
+.menu-item{
+    font-family: sans-serif;
+    height: 43px;
+    display: flex;
+    align-items: center;
+    padding-left: 17px;
+    font-size: 16px;
+    transition: all 0.3s;
+    cursor: pointer;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu-item-active-indicator{
+    height: 100%;
+    width: 5px;
+}
+
+.content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+
+.breadcrumb-container{
+    height: 30px;
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+    box-sizing: border-box;
+    transition: all 0.3s;
+}
+
+.breadcrumb-text{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.card-container{
+
+}
+
+.header-block-container{
+
+}
+
+.header-title{
+    color: white;
+    font-size: 22px;
+    margin-bottom: 7px;
+}
+
+.header-subtitle{
+    color: white;
+    opacity: 0.5;
+    font-size: 12px;
+}
+
+.card-container-inner{
+    display: flex;
+    flex-direction: row;
+    margin-top: 19px;
+}
+
+.card-big{
+    height: 333px;
+    width: 300px;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+
+.side-card-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 17px;
+    justify-content: space-between;
+}
+
+.card-small{
+    height: 98px;
+    width: 184px;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
