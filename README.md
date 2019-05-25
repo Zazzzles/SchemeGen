@@ -1,6 +1,6 @@
 # UI Colorscheme Generator 
 
-> A site for rapidly iterating UI colors schemes.   [Try it out](schemegen.surge.sh)
+> A site for rapidly iterating UI colors schemes.   [Try it out](http://schemegen.surge.sh/)
 
 ![Example](/examples/demo.gif)
 
